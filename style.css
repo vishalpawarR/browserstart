@@ -75,8 +75,8 @@ h1, h2 {
         max-width: calc(50% - 5px);
     }
 }
-@media (max-width: 993px) {
+@media (min-width: 993px) {
     .column {
-        flex-basis: 33.33%;
+        flex: 0 0 calc(33.33% - 20px);
     }
 }
