@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
 * {
     box-sizing: border-box;
+    font-family: 'Rubik Doodle Shadow';
 }
 
 body {
