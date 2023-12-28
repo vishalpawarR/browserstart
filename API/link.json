@@ -1,0 +1,123 @@
+{
+    "categories": [{
+            "name": "Communication",
+            "links": [{
+                    "url": "https://mail.google.com/",
+                    "name": "Gmail"
+                },
+                {
+                    "url": "https://x.com/",
+                    "name": "X"
+                },
+                {
+                    "url": "https://www.linkedin.com/",
+                    "name": "LinkedIn"
+                },
+                {
+                    "url": "https://github.com/",
+                    "name": "GitHub"
+                },
+                {
+                    "url": "https://chat.openai.com/",
+                    "name": "ChatGPT"
+                },
+                {
+                    "url": "https://www.reddit.com/",
+                    "name": "Reddit"
+                },
+                {
+                    "url": "https://discord.com/",
+                    "name": "Discord"
+                },
+                {
+                    "url": "https://www.figma.com/",
+                    "name": "Figma"
+                }
+            ]
+        },
+        {
+            "name": "Jobs",
+            "links": [{
+                    "url": "https://www.instahyre.com/",
+                    "name": "Instahyre"
+                },
+                {
+                    "url": "https://naukri.com/",
+                    "name": "Naukri"
+                },
+                {
+                    "url": "https://indeed.com/",
+                    "name": "Indeed"
+                },
+                {
+                    "url": "https://weekday.works/",
+                    "name": "Weekday Works"
+                },
+                {
+                    "url": "https://wellfound.com/",
+                    "name": "Wellfound"
+                },
+                {
+                    "url": "https://www.workatastartup.com/",
+                    "name": "Work at a Startup"
+                }
+            ]
+        },
+        {
+            "name": "Freelance",
+            "links": [{
+                    "url": "https://www.fiverr.com/",
+                    "name": "Fiverr"
+                },
+                {
+                    "url": "https://www.upwork.com/",
+                    "name": "Upwork"
+                },
+                {
+                    "url": "https://contra.com/",
+                    "name": "Contra"
+                },
+                {
+                    "url": "https://www.peopleperhour.com/",
+                    "name": "People Per Hour"
+                },
+                {
+                    "url": "https://weworkremotely.com/",
+                    "name": "We Work Remotely"
+                },
+                {
+                    "url": "https://www.flexjobs.com/",
+                    "name": "FlexJobs"
+                },
+                {
+                    "url": "https://www.toptal.com/",
+                    "name": "Toptal"
+                },
+                {
+                    "url": "https://www.usebraintrust.com/",
+                    "name": "Braintrust"
+                },
+                {
+                    "url": "https://www.apollo.io",
+                    "name": "Apollo"
+                }
+            ]
+        },
+        {
+            "name": "Learning",
+            "links": [{
+                    "url": "https://frontendmasters.com/",
+                    "name": "Frontend Masters"
+                },
+                {
+                    "url": "https://scrimba.com/",
+                    "name": "Scrimba"
+                },
+                {
+                    "url": "https://www.youtube.com/",
+                    "name": "YouTube"
+                }
+            ]
+        }
+    ]
+}
