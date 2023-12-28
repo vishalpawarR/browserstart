@@ -53,11 +53,9 @@ Thank you for your contributions!
 
 To automatically close an issue upon merging a pull request (PR), use keywords like "fix" "fixes" followed by the issue number in your commit messages or PR description:
 
-`
+- `
 fix #ISSUE-NUMBER
 `
-
-Example: `fix #10`
+  - Example: `fix #10`
 
 ---
-**Note:** These guidelines are subject to change. Always refer to the latest version of this document.
