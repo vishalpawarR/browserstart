@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Spice&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nabla&family=Oswald:wght@200&family=Roboto+Slab:wght@300&display=swap');
+
 * {
     box-sizing: border-box;
+    font-family: 'Roboto Slab', Arial;
 }
 
 body {
