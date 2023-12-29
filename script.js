@@ -33,7 +33,6 @@ fetch(url)
             anchorTag.appendChild(imgTag);
             webLink.appendChild(anchorTag);
             
-
             linkContainer.appendChild(webLink);
         })
         categoriesContainer.appendChild(categoryColumn);
