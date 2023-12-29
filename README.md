@@ -1,6 +1,6 @@
 # My Browser Startup Page Project
 
-![Project Image Placeholder](img\README\BrowserStart.png)
+![Project Image Placeholder](/img/README/BrowserStart.png)
 
 ## Overview
 This project is a browser startup page featuring categories of links that I use daily. It's organized into various categories such as tools, job sites, freelance resources, and learning platforms.
