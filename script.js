@@ -1,6 +1,25 @@
 const categoriesContainer = document.querySelector('.category-container');
 const url = 'API/link.json';
 
+document.addEventListener("DOMContentLoaded", function() {
+    const loaderMinTime = 2000;
+    let contentLoaded = false;
+
+    function hideLoader() {
+        const loaderContainer = document.querySelector(".loader-container");
+        if(!contentLoaded) {
+            loaderContainer.style.display = "none";
+            contentLoaded = true;
+            console.log("I removed it")
+        }
+    }
+
+    setTimeout(hideLoader, loaderMinTime);
+
+    window.addEventListener("load", hideLoader);
+});
+
+
 fetch(url)
 .then(response => response.json() )
 .then(data => {
